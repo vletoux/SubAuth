@@ -1,0 +1,5 @@
+LIBRARY
+
+EXPORTS
+    Msv1_0SubAuthenticationRoutine
+	Msv1_0SubAuthenticationFilter
